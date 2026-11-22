@@ -1,0 +1,17 @@
+# Environment and private settings
+.env
+.env.local
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# Log files
+*.log
+
+# Windows and system files
+Thumbs.db
+.DS_Store
+
+# Editor settings
+.vscode/

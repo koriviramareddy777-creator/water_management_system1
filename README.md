@@ -1,18 +1,18 @@
-Kotha Vellanti Water Management System
+# Kotha Vellanti Water Management System
 
-Project Overview
+### Project Overview:
 
 The Kotha Vellanti Water Management System is a web-based application developed to help manage water availability, resident registrations, and water-related complaints in Kotha Vellanti, Nellore, Andhra Pradesh.
-
-Objectives
+## 
+### Objectives:
 
 - Manage water availability information.
 - Allow residents to register and log in.
 - Allow residents to submit water-related complaints.
 - Help administrators manage complaints and water facilities.
 - Maintain records using a MySQL database.
-
-Technologies Used
+## 
+### Technologies Used:
 
 - HTML
 - CSS
@@ -21,8 +21,8 @@ Technologies Used
 - MySQL
 - XAMPP
 - GitHub
-
-Main Features
+## 
+### Main Features:
 
 - Resident Registration
 - Resident Login
@@ -31,8 +31,8 @@ Main Features
 - Water Availability
 - Complaint Management
 - Facility Management
-
-Software Requirements
+## 
+### Software Requirements:
 
 - Windows
 - XAMPP Server
@@ -40,15 +40,16 @@ Software Requirements
 - MySQL
 - Web Browser
 - Visual Studio Code
-
-Project Location
+## 
+### Project Location:
 
 Kotha Vellanti, Nellore, Andhra Pradesh, India.
-
-Developer
+## 
+### Developer:
 
 CSE Mini Project
-
-Project Purpose
+## 
+### Project Purpose:
 
 This project is developed as part of a Computer Science and Engineering academic mini-project.
+## 
